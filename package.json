@@ -1,0 +1,20 @@
+{
+  "name": "html-docs-hello-world",
+  "version": "1.0.0",
+  "description": "---\r topic: HTML Hello World\r languages:\r   - HTML\r products:\r   - Azure App Service\r   - Azure Web Apps\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamGrgic/azure-dummy-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamGrgic/azure-dummy-web-app/issues"
+  },
+  "homepage": "https://github.com/adamGrgic/azure-dummy-web-app#readme"
+}
